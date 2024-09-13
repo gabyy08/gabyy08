@@ -1,5 +1,13 @@
-## Hi there 👋
+## Meu nome é: Gabrielly Freitas.
 
+- Estou estudando no Alura.
+- Estou me desenvolvendo na linguagem JavaScript.
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+## Você pode entrar em contato comigo:
+00001228484132sp@al.educacao.sp.gov.br.
+
+![](https://media.tenor.com/aj_2Ve888WAAAAAi/troll-race-trollface.gif)
 <!--
 **gabyy08/gabyy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
